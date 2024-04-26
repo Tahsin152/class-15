@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hero{
+    color: white;
+    text-align: center;
+    background-image: url(background.jpg);
+    height: 300px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.body {
+    margin-top: 3px;
+}
+.portfolio {
+    margin-top: 3px;
+    margin: 3px;
+    float: left;
+    background-image: url(product1.jpg);
+    height: 200px;
+    width: 17.9%;
+    background-size: cover;
+    background-position: center;
+}
+.portfolio2 {
+    margin: 3px;
+    float: left;
+    background-image: url(product2.avif);
+    height: 200px;
+    width: 20%;
+    background-size: cover;
+    background-position: center;
+}
+.portfolio3 {
+    margin: 3px;
+    float: left;
+    background-image: url(product3.jpg);
+    height: 200px;
+    width: 20%;
+    background-size: cover;
+    background-position: center;
+}
+.portfolio4 {
+    margin: 3px;
+    float: left;
+    background-image: url(product4.webp);
+    height: 200px;
+    width: 20%;
+    background-size: cover;
+    background-position: center;
+}
+.portfolio5 {
+    margin: 3px;
+    float: left;
+    background-image: url(product5.webp);
+    height: 200px;
+    width: 20%;
+    background-size: cover;
+    background-position: center;
+}
